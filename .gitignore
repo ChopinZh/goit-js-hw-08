@@ -1,8 +1,7 @@
-**/.DS_Store
-/node_modules
-/dist
-
-
+#Junk
+.DS_Store
+.vscode/
+.idea/
 
 # Logs
 logs
